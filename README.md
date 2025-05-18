@@ -65,7 +65,7 @@ Projeyi kullanabilmek için aşağıdaki adımları takip edin:
 ![Ana Sayfa](screenshots/anasayfa.png)
 
 ### Antrenman Ekle
-![Antreman Ekle](screenshots/antreman.png)
+![Antreman Ekle](screenshots/antreman_ekle.png)
 
 ### Takip Kaydı Ekle
 ![Takip Ekle](screenshots/takip_ekle.png)
